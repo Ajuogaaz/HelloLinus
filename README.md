@@ -27,13 +27,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'C:\Users\17752\OneDrive\Desktop\PreAssignment.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'PreAssignment.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-*Describe any challenges encountered while building the app.
+**Describe any challenges encountered while building the app.
 
 Setting up Android studio to work exactly as described in the videos.
    
